@@ -23,6 +23,8 @@
 * Numpy (+ mkl for Windows)
 * Matplotlib
 
+
+
 # Usage
 
 **1.** Download the four MNIST dataset files from this link:
@@ -139,4 +141,8 @@ https://www.youtube.com/watch?v=7kpYpmw5FfE
 
 ## Test Images Classification Output:
 
-![Output a1](Outputs/output.png "Output a1")       
+![Output a1](Outputs/output.png "Output a1")    
+
+
+
+## This Repo is Forked from @anujdutt9 Github Account
